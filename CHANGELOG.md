@@ -1,0 +1,1 @@
+Go to `paddle.c`, `paddle.h` y `pong.c` if you need to see the automatic paddle implementation
