@@ -1,4 +1,4 @@
-#PONG GAME
+# PONG GAME
 
 To compile run command make
 
